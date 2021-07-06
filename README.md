@@ -13,3 +13,28 @@ Caso haja interesse, disponibilizo o link de acesso para a minha dissertação: 
 
 ![image](https://user-images.githubusercontent.com/81119854/124672398-5b647f80-de8d-11eb-83ce-02e91de0e7f5.png)
 
+# Dados experimentais do indicador 
+
+![image](https://user-images.githubusercontent.com/81119854/124673528-56083480-de8f-11eb-9d7d-1b9991dfd63b.png)
+
+# Modelagem preditiva utilizando modelo de duas frações (encontrado na literatura)
+
+![image](https://user-images.githubusercontent.com/81119854/124674029-5523d280-de90-11eb-974e-83fe6f072c89.png)
+
+R² = 0.97. A margem de erro utilizada no gráfico de paridade foi de 10 %.
+
+# Dados experimentais do indicador com sacarose
+
+Com intuito de aumentar a resistência térmica do indicador e aumentar a faixa de temperatura para a sua utilização, sacarose foi adicionada à solução modelo.
+
+![image](https://user-images.githubusercontent.com/81119854/124673724-c911ab00-de8f-11eb-973e-cf85c1c9b6ab.png)
+![image](https://user-images.githubusercontent.com/81119854/124673940-31608c80-de90-11eb-92b4-ad229f1d8350.png)
+
+# Modelagem preditiva do indicador com sacarose utilizando modelo de duas frações
+
+![image](https://user-images.githubusercontent.com/81119854/124674195-a8962080-de90-11eb-976e-b068613a7052.png)
+
+R² = 0.99. A margem de erro utilizada no gráfico de paridade foi de 10 %.
+
+
+
