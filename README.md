@@ -8,3 +8,8 @@ Resumidamente, pode-se utilizar este sensor após certificar-se que a termorresi
 Contudo, testes experimentais estão se tornando cada vez menos frequentes por causa da aplicação de modelos matemáticos. Estes modelos proporcionam menos uso de reagentes, menor tempo de laboratório e eficiência preditiva. Por isso, eu utilizei modelos matemáticos presentes na literatura e também desenvolvi alguns modelos utilizando equações diferenciais e redes neurais.
 
 Caso haja interesse, disponibilizo o link de acesso para a minha dissertação: [Dissertação - Lucas Quemelli.](https://www.teses.usp.br/teses/disponiveis/3/3137/tde-10122020-095647/pt-br.php)
+
+# Modelagem preditiva da curva padrão de indofenol
+
+![image](https://user-images.githubusercontent.com/81119854/124672398-5b647f80-de8d-11eb-83ce-02e91de0e7f5.png)
+
