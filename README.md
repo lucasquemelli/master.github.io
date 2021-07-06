@@ -40,5 +40,17 @@ Com intuito de aumentar a resistência térmica do indicador e aumentar a faixa 
 
 R² = 0.99. A margem de erro utilizada no gráfico de paridade foi de 10 %.
 
+# Modelagem preditiva com redes neurais
+
+![image](https://user-images.githubusercontent.com/81119854/124676525-15131e80-de95-11eb-8dd8-2a6484243400.png)
+
+![image](https://user-images.githubusercontent.com/81119854/124677140-2f99c780-de96-11eb-9340-365b57b004b7.png)
+
+![image](https://user-images.githubusercontent.com/81119854/124677190-42140100-de96-11eb-955a-477bd1854273.png)
+
+Comentários sobre a figura abaixo: Na figura à esquerda, os pontos pretos são os experimentais e os vermelhos são a previsão do modelo. Na figura à direita, os pontos são apenas pretos - e estes são a previsão.
+
+![image](https://user-images.githubusercontent.com/81119854/124677330-9919d600-de96-11eb-83b3-27a064b94693.png)
+
 
 
